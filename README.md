@@ -1,16 +1,13 @@
-## Hi there 👋
+# About me
 
-<!--
-**bomangroff/bomangroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cognitive Psychologist and Neuroscientist with 10+ years of experience in neuroimaging and behavioral research on cognitive control, memory, and senorimotor systems. My graduate research explored how using specific strategies to stop thinking something affected subsequent behavior and memory representations in the brain. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+- R
+- Python
+- Univariate and multivariate (MVPA, RSA) analysis of fMRI data
+- Experimental design (behavioral and fMRI)
+- Statistics (general linear models, multi-level modeling, structural equation modeling)
+- Functional neuroimaging
+- Cognitive neuroscience
+- Science communication
